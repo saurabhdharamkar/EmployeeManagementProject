@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 6,
+      "name": "Rajesh",
+      "type": "manager",
+      "salary": 45000,
+      "phone": 8765678767,
+      "address": "Mumbai"
+    },
+    {
+      "id": 7,
+      "name": "Rahul",
+      "type": "Tester",
+      "salary": 34000,
+      "phone": 8830134731,
+      "address": "Hyd"
+    },
+    {
+      "id": 8,
+      "name": "Rohit",
+      "type": "Developer",
+      "salary": 45000,
+      "phone": 8830134731,
+      "address": "Delhi"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
